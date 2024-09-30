@@ -1,4 +1,4 @@
-# Nugget
+# Note
 This is NOT affilated with DuckDuckGo
 
 ## Requierments
